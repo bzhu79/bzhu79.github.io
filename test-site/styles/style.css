@@ -1,0 +1,19 @@
+html {
+	font-size: 15px;
+	font-family: 'Open Sans', sans-serif;
+}
+right-text {
+	text-align: center;
+}
+h3 {
+	width:110px;
+	float:right;
+}
+#name{
+	width:230px;
+	float:right;
+}
+.My-photo {
+	width: 450px;
+	float:right;
+}
